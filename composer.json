@@ -1,5 +1,5 @@
 {
-    "name": "valga/fbns-react",
+    "name": "pixicus/fbns-react",
     "description": "A PHP client for the FBNS built on top of ReactPHP",
     "keywords": [
         "FBNS",
@@ -29,7 +29,7 @@
         }
     },
     "require": {
-        "php": "^7.2",
+        "php": "^8.0",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-zlib": "*",
